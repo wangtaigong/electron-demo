@@ -1,0 +1,19 @@
+{
+  "name": "electron-demo",
+  "version": "0.0.1",
+  "description": "electron demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "demo"
+  ],
+  "author": "zhang.tigerkin",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
